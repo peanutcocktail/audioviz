@@ -1,0 +1,13 @@
+{
+  "run": [
+    {
+      "method": "shell.run",
+      "params": {
+        "path": "app",
+        "chain": true,
+        "input": null,
+        "message": "npm install"
+      }
+    }
+  ]
+}
